@@ -246,11 +246,11 @@ int main()
 	LinkedList* end=GetEndLinkedList(start);
 
 
-//	PrintLinkedList(start);
-//	QuickSortLinkedList(&start, &end);
-//	PrintLinkedList(start);
+	PrintLinkedList(start);
+	QuickSortLinkedList(&start, &end);
+	PrintLinkedList(start);
 
-	QuickSortRemoveDuplicatesLinkedList(&start, &end);
+//	QuickSortRemoveDuplicatesLinkedList(&start, &end);
 //	HashRemoveDuplicatesLinkedList(&start, &end);
 //	PrintLinkedList(start);
 //	cout << GetLengthLinkedList(start);
