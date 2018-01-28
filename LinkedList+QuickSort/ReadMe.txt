@@ -5,7 +5,9 @@
 AppWizard has created this LinkedList+QuickSort application for you.
 
 This file contains a summary of what you will find in each of the files that
-make up your LinkedList+QuickSort application.
+make up your LinkedList+QuickSort application
+
+hello
 
 
 LinkedList+QuickSort.vcxproj
